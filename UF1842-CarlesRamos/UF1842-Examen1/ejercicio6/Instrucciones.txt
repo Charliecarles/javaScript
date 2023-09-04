@@ -1,0 +1,8 @@
+EJERCICIO - Imprimir Array 
+
+Crea el fichero "PrintArrayTAB.js" donde definirás la función javascript "printArrayTAB"
+
+Esta función aceptará un array "arr" cómo parámetro y deberá devolver una cadena que contenga 
+lista de elementos del array separados por tabulaciones (TAB).
+
+Incluir en el fichero por lo menos 1 test para demostrar el correcto funcionamiento.

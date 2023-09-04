@@ -1,0 +1,4 @@
+
+The Master of DOM
+
+Repetir el ejercicio1 pero eliminando del DOM los elementos seleccionados en lugar de esconderlos.

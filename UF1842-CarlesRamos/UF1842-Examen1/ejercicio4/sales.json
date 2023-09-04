@@ -1,0 +1,63 @@
+{
+    "Ventas": [
+      {
+        "Cliente": "Wilman Kala",
+        "Pais": "Finland",
+        "Vendedor": "Steve Buchanan",
+        "Fecha": "16/07/2006",
+        "Producto": "Queso Cabrales"
+      },
+      {
+        "Cliente": "Wilman Kala",
+        "Pais": "Finland",
+        "Vendedor": "Steve Buchanan",
+        "Fecha": "16/07/2006",
+        "Producto": "Signaporean Hokkien Fried Mee"
+      },
+      {
+        "Cliente": "Wilman Kala",
+        "Pais": "Finland",
+        "Vendedor": "Steve Buchanan",
+        "Fecha": "16/07/2006",
+        "Producto": "Mozzarella dei Giovanni"
+      },
+      {
+        "Cliente": "Tradiçao Hipermercados",
+        "Pais": "Brazil",
+        "Vendedor": "Michael Suyama",
+        "Fecha": "10/07/2006",
+        "Producto": "Tofu"
+      },
+      {
+        "Cliente": "Tradiçao Hipermercados",
+        "Pais": "Brazil",
+        "Vendedor": "Michael Suyama",
+        "Fecha": "10/07/2006",
+        "Producto": "Manjimup Dried Apples"
+      },
+      {
+        "Cliente": "Hanari Carnes",
+        "Pais": "Brazil",
+        "Vendedor": "Margaret Peacock",
+        "Fecha": "12/07/2006",
+        "Producto": "Jack's New England Clam Chowder"
+      },
+      {
+        "Cliente": "Hanari Carnes",
+        "Pais": "Brazil",
+        "Vendedor": "Margaret Peacock",
+        "Fecha": "12/07/2006",
+        "Producto": "Manjimup Dried Apples"
+      },
+      {
+        "Cliente": "Hanari Carnes",
+        "Pais": "Brazil",
+        "Vendedor": "Margaret Peacock",
+        "Fecha": "12/07/2006",
+        "Producto": "Louisiana Fiery Hot Pepper Sauce"
+      }
+
+   
+    ]
+  }
+  

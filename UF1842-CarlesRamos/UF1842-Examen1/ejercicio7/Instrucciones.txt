@@ -1,0 +1,23 @@
+EJERCICIO - "Filtrar Array"
+
+Crea el fichero "ArrayFilter.js" que contenga un SCRIPT de JS que contenga la función "arrayCommon"
+
+Esta función aceptará 2 parámetros en entrada: "array1" y "array2" y deberá devolver lo siguiente:
+a) En el caso que arr1 y arr2 sean arrays, devolverá un nuevo array que contenga solamente los valores que coinciden en ambos arrays.
+b) En el caso de que uno de los dos parámetros no esté definido (undefined), la función deberá devolver un array vacío y imprimir en consola el mensaje "No way! Both parameters must be arrays"
+
+Prototipo:
+arrayCommon(array1, array2);
+
+Ejemplo:
+
+//añadiendo este código de test...
+console.log(arrayCommon([7, 4, 9, 12], [1,2,7,10,12]));
+-----------------------------------------------------
+
+(en la terminal)
+node ArrayFilter.js
+-> imprimirá: 
+[7, 12]
+
+

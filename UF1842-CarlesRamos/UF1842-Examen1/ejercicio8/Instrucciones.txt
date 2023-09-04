@@ -1,0 +1,29 @@
+EJERCICIO - Filtro Array con callback
+
+Crea el fichero "FiltroArrayCallback.js" que contenga un SCRIPT de JS que contenga la función "arrayFilterCallback"
+
+Esta función aceptará un array "arr" y una función "filtro" como parámetros en entrada y deberá devolver un nuevo array que contenga solamente los valores del array que cumplen con el filtro definido en la función.
+
+Prototipo:
+arrayFilterCallback(arr, filtro);
+
+Ejemplo/Ayuda:
+************
+
+function arrayFilterCallback(arr, filtro){
+    //your code here!!!
+    //...
+}
+
+let arr = arrayFilterCallback([7, 4, 9, 12], function(val){
+    return val%2==0
+})
+console.log(arr) 
+
+************
+
+node FiltroArrayCallback.js
+-> imprimirá:  [4, 12]
+
+
+

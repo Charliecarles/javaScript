@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Carles",
+      "email": "fjfjf@gmail.com",
+      "address": "carrer flind 2"
+    },
+    {
+      "name": "Paco",
+      "email": "eererjf@gmail.com",
+      "address": "carrer rweew 3"
+    }
+  ]
+}
